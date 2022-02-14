@@ -1,3 +1,25 @@
-body{
-    background-color: grey;
+body {
+    background-color: #999999;
+    width: 750px;
+    margin: auto;
+    padding: 10px;
+}
+
+h1{
+    text-align: left;
+    font-family: "Arial";
+    
+    width: 300px;
+}
+
+p{
+    text-align: left;
+    font-family: "Arial";
+    width: 300px;
+}
+
+img {
+    float: right;
+    border-radius: 5px;
+    max-width: 40%;
 }
